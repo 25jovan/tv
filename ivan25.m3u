@@ -89,7 +89,7 @@ http://45.160.15.130:8111/play/121
 http://45.160.15.130:8111/play/122
 #EXTINF:-1, MX OLD
 http://45.160.15.130:8111/play/123
-1,hbo plus
+#EXTINF:-1, hbo plus
 http://190.108.87.149:8000/play/a0d8/index.m3u8
 
 
