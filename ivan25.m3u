@@ -1,0 +1,133 @@
+#EXTM3U
+
+#EXTINF:-1, caso cerrado
+http://user.tvcluboficial.com/stream/free_Jovan/adv/902.m3u8
+#EXTINF:-1, telemundo
+http://user.tvcluboficial.com/stream/free_Jovan/adv/92.m3u8
+#EXTINF:-1,distrito comedia
+http://user.tvcluboficial.com/stream/free_Jovan/adv/32.m3u8
+#EXTINF:-1, animal p
+http://45.160.15.130:8111/play/025
+#EXTINF:-1, history
+http://190.108.87.149:8000/play/a0et/index.m3u8
+#EXTINF:-1, nat geo
+http://190.108.87.149:8000/play/a066/index.m3u8
+#EXTINF:-1, WARNER B
+http://45.160.15.130:8111/play/081
+#EXTINF:-1, AXN
+http://45.160.15.130:8111/play/087
+#EXTINF:-1, A&E
+http://45.160.15.130:8111/play/102
+#EXTINF:-1, TNT
+http://45.160.15.130:8111/play/109
+#EXTINF:-1,Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1, sony
+http://190.108.87.149:8000/play/a04k/index.m3u8
+#EXTINF:-1, space
+http://190.108.87.149:8000/play/a061/index.m3u8
+#EXTINF:-1, paramount
+http://190.108.87.149:8000/play/a067/index.m3u8
+#EXTINF:-1, golden edge
+http://user.tvcluboficial.com/stream/free_Jovan/adv/58.m3u8
+
+#EXTINF:-1, ppv 1
+http://user.tvcluboficial.com/stream/free_Jovan/adv/847.m3u8
+#EXTINF:-1, ppv 2
+http://user.tvcluboficial.com/stream/free_Jovan/adv/849.m3u8
+#EXTINF:-1, ppv 3
+http://user.tvcluboficial.com/stream/free_Jovan/adv/850.m3u8
+#EXTINF:-1, ppv 4
+http://user.tvcluboficial.com/stream/free_Jovan/adv/851.m3u8
+#EXTINF:-1, ppv 5
+http://user.tvcluboficial.com/stream/free_Jovan/adv/852.m3u8
+#EXTINF:-1, ppv 6
+http://user.tvcluboficial.com/stream/free_Jovan/adv/853.m3u8
+#EXTINF:-1, ppv 7
+http://user.tvcluboficial.com/stream/free_Jovan/adv/854.m3u8
+#EXTINF:-1, ppv8
+http://user.tvcluboficial.com/stream/free_Jovan/adv/855.m3u8
+#EXTINF:-1, ppv 9
+http://user.tvcluboficial.com/stream/free_Jovan/adv/856.m3u8
+#EXTINF:-1,ppv 10
+http://user.tvcluboficial.com/stream/free_Jovan/adv/868.m3u8
+#EXTINF:-1, ppv 11
+http://user.tvcluboficial.com/stream/free_Jovan/adv/869.m3u8
+#EXTINF:-1, ppv 12
+http://user.tvcluboficial.com/stream/free_Jovan/adv/870.m3u8
+#EXTINF:-1, ppv13
+http://user.tvcluboficial.com/stream/free_Jovan/adv/871.m3u8
+#EXTINF:-1,ppv 14
+http://user.tvcluboficial.com/stream/free_Jovan/adv/873.m3u8
+#EXTINF:-1, ppv 15
+http://user.tvcluboficial.com/stream/free_Jovan/adv/874.m3u8
+#EXTINF:-1,ppv 16
+http://user.tvcluboficial.com/stream/free_Jovan/adv/876.m3u8
+#EXTINF:-1, ppv 17
+http://user.tvcluboficial.com/stream/free_Jovan/adv/875.m3u8
+#EXTINF:-1, ppv 18
+http://user.tvcluboficial.com/stream/free_Jovan/adv/872.m3u8
+#EXTINF:-1, ppv 19
+http://user.tvcluboficial.com/stream/free_Jovan/adv/867.m3u8
+
+#EXTINF:-1, star
+http://user.tvcluboficial.com/stream/free_Jovan/adv/45.m3u8
+#EXTINF:-1, starz cinema
+http://user.tvcluboficial.com/stream/free_Jovan/adv/680.m3u8
+#EXTINF:-1, starz accion
+http://user.tvcluboficial.com/stream/free_Jovan/adv/682.m3u8
+#EXTINF:-1, starz black
+http://user.tvcluboficial.com/stream/free_Jovan/adv/683.m3u8
+#EXTINF:-1, starz family
+http://user.tvcluboficial.com/stream/free_Jovan/adv/684.m3u8
+#EXTINF:-1, starz hd
+http://user.tvcluboficial.com/stream/free_Jovan/adv/685.m3u8
+#EXTINF:-1, amc
+http://190.108.87.149:8000/play/a028/index.m3u8
+
+#EXTINF:-1, hbo
+http://198.245.53.172:8970/live/RR4T88CZPMRW/474QWQDQXJTS/62.ts
+#EXTINF:-1,hbo 2
+http://198.245.53.172:8970/live/RR4T88CZPMRW/474QWQDQXJTS/300.ts
+#EXTINF:-1, studio u
+http://45.160.15.130:8111/play/098
+#EXTINF:-1,hbo family
+http://190.108.87.149:8000/play/a0d9/index.m3u8
+#EXTINF:-1,hbo plus
+http://190.108.87.149:8000/play/a0d8/index.m3u8
+#EXTINF:-1 hbo signature
+http://198.245.53.172:8970/live/RR4T88CZPMRW/474QWQDQXJTS/174175.ts
+#EXTINF:-1 movistar accion
+http://198.245.53.172:8970/live/RR4T88CZPMRW/474QWQDQXJTS/182638.ts
+#EXTINF:-1, hbo pop
+http://198.245.53.172:8970/live/RR4T88CZPMRW/474QWQDQXJTS/174172.ts
+#EXTINF:-1, hbo mundi
+http://198.245.53.172:8970/live/RR4T88CZPMRW/474QWQDQXJTS/174174.ts
+#EXTINF:-1, hbo XTREME
+http://190.108.87.149:8000/play/a0da/index.m3u8
+#EXTINF:-1, cine premier
+http://181.129.186.36:8089/play/a00u/index.m3u8
+#EXTINF:-1, cine hispano
+http://181.129.186.36:8089/play/a00v/index.m3u8
+#EXTINF:-1,cine familiar
+http://181.129.186.36:8089/play/a00r/index.m3u8
+#EXTINF:-1,cinemax
+http://45.160.15.130:8111/play/112
+#EXTINF:-1,universal comedy
+http://190.108.87.149:8000/play/a0io/index.m3u8
+#EXTINF:-1,universal cine
+http://190.108.87.149:8000/play/a0ii/index.m3u8
+#EXTINF:-1,universal premier
+http://190.108.87.149:8000/play/a0ik/index.m3u8
+#EXTINF:-1, MX FAMILY
+http://45.160.15.130:8111/play/120
+#EXTINF:-1, MX CLASIC
+http://45.160.15.130:8111/play/121
+#EXTINF:-1, MX PRIME
+http://45.160.15.130:8111/play/122
+#EXTINF:-1, MX OLD
+http://45.160.15.130:8111/play/123
+1,hbo plus
+http://190.108.87.149:8000/play/a0d8/index.m3u8
+
+
